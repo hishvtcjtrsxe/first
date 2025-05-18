@@ -50,8 +50,20 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_lints",
+      "rootUri": "file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///C:/Users/hijaz/Documents/flutter_windows_3.13.9-stable/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -134,13 +146,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "todo_app",
+      "name": "to_do_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-04-19T17:34:59.676281Z",
+  "generated": "2025-05-18T15:07:39.483259Z",
   "generator": "pub",
   "generatorVersion": "3.1.5"
 }

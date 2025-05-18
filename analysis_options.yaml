@@ -1,12 +1,6 @@
-analyzer:
-  enable-experiment:
-    - non-nullable
-  errors:
-    todo: ignore
-    unnecessary_getters_setters: ignore
-    prefer_single_quotes: warn
-    prefer_const_constructors: warn
-    prefer_final_fields: warn
-    unnecessary_this: warn
-    unused_import: warn
-    dead_code: warn
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_empty_else: true
+    avoid_print: true

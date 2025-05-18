@@ -1,21 +1,19 @@
-name: todo_app
-description: A simple Flutter to-do application
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
+name: to_do_app  # Match folder name exactly
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^3.0.1  # Add this line
+  cupertino_icons: ^1.0.2
 
 flutter:
   uses-material-design: true
-
-  assets:
-    - assets/
+  # Comment out or remove assets section if not needed
+  # assets:
+  #   - assets/

@@ -26,6 +26,14 @@ fake_async
 2.12
 file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1/
 file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1/lib/
+flutter_lints
+3.1
+file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2/
+file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_lints-3.0.2/lib/
+lints
+3.0
+file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/lints-3.0.0/
+file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/lints-3.0.0/lib/
 matcher
 2.18
 file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16/
@@ -74,8 +82,8 @@ web
 3.1
 file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.1.4-beta/
 file:///C:/Users/hijaz/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.1.4-beta/lib/
-todo_app
-2.12
+to_do_app
+3.0
 file:///C:/Users/hijaz/Desktop/to_do%20app/todo_app/
 file:///C:/Users/hijaz/Desktop/to_do%20app/todo_app/lib/
 sky_engine
